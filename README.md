@@ -20,6 +20,8 @@ If the user inputs a non-alphabetic character into either textbox the following 
 
 ![Screenshot 4](https://user-images.githubusercontent.com/97834735/165388697-e5ab97d9-63dd-455a-b36b-8d0b7f26202a.png)
 
+If the user leaves either textbox null or empty they following MessageBox will be displayed.
+
 ![Screenshot 5](https://user-images.githubusercontent.com/97834735/165390247-ff774071-ab51-4d0c-9da8-1a40dda3146c.png)
 
 ![Screenshot 6 v2](https://user-images.githubusercontent.com/97834735/165390254-d3063972-0c41-4eac-abd5-1adc53f22fd9.png)
