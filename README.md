@@ -24,6 +24,9 @@ If the user leaves either textbox null or empty they following MessageBox will b
 
 ![Screenshot 5](https://user-images.githubusercontent.com/97834735/165390247-ff774071-ab51-4d0c-9da8-1a40dda3146c.png)
 
+If the user wishes to use a CSV textfile as an input the "Open CSV File" must be selected.
+The user must then select the CSV text file of their choice and confirm the selection.
+
 ![Screenshot 6 v2](https://user-images.githubusercontent.com/97834735/165390254-d3063972-0c41-4eac-abd5-1adc53f22fd9.png)
 
 ![Screenshot 7](https://user-images.githubusercontent.com/97834735/165390270-e653d210-1ea6-4fc7-adce-59364612a934.png)
