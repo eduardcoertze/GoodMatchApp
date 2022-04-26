@@ -16,6 +16,8 @@ A MessageBox will pop-up displaying the two players names with the match percent
 
 ![Screenshot 3](https://user-images.githubusercontent.com/97834735/165388688-e4b7bc24-8000-4064-ae0a-d9034b82f54f.png)
 
+If the user inputs a non-alphabetic character into either textbox the following Messagebox will be displayed.
+
 ![Screenshot 4](https://user-images.githubusercontent.com/97834735/165388697-e5ab97d9-63dd-455a-b36b-8d0b7f26202a.png)
 
 ![Screenshot 5](https://user-images.githubusercontent.com/97834735/165390247-ff774071-ab51-4d0c-9da8-1a40dda3146c.png)
