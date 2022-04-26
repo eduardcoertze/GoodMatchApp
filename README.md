@@ -1,7 +1,9 @@
 # Graduate Assessment: GoodMatch App
 
-## Steps on running the application
+## Application run-through
 
+Application home screen which allows the user to either input two player names and view the match percentage from that pair or,
+Upload a CSV textfile and view the matches from a group of players.
 ![Screenshot 1](https://user-images.githubusercontent.com/97834735/165388576-9732cf8a-3e64-44f6-afa2-d8d468c61209.png)
 
 ![Screenshot 2](https://user-images.githubusercontent.com/97834735/165388674-1de6419f-b394-48ed-8e25-db65fe0be72d.png)
