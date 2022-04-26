@@ -29,7 +29,11 @@ The user must then select the CSV text file of their choice and confirm the sele
 
 ![Screenshot 6 v2](https://user-images.githubusercontent.com/97834735/165390254-d3063972-0c41-4eac-abd5-1adc53f22fd9.png)
 
+CSV textfile example
+
 ![Screenshot 7](https://user-images.githubusercontent.com/97834735/165390270-e653d210-1ea6-4fc7-adce-59364612a934.png)
+
+
 
 ![Screenshot 8 v2](https://user-images.githubusercontent.com/97834735/165390281-b64323aa-9c81-4b74-876d-e00b26a1ac05.png)
 
