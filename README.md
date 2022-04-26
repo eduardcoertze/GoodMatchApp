@@ -33,7 +33,10 @@ CSV textfile example
 
 ![Screenshot 7](https://user-images.githubusercontent.com/97834735/165390270-e653d210-1ea6-4fc7-adce-59364612a934.png)
 
+Once the user is ready to write the group match percentage to the output.txt textfile the following button must be
+selected
 
+![Untitled](https://user-images.githubusercontent.com/97834735/165392571-cc9cb022-f7fc-4ed2-b841-b3b2d5b2db5b.png)
 
 ![Screenshot 8 v2](https://user-images.githubusercontent.com/97834735/165390281-b64323aa-9c81-4b74-876d-e00b26a1ac05.png)
 
