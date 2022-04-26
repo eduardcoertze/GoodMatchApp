@@ -29,12 +29,12 @@ The user must then select the CSV text file of their choice and confirm the sele
 
 ![Screenshot 6 v2](https://user-images.githubusercontent.com/97834735/165390254-d3063972-0c41-4eac-abd5-1adc53f22fd9.png)
 
-CSV textfile example
+CSV textfile example.
 
 ![Screenshot 7](https://user-images.githubusercontent.com/97834735/165390270-e653d210-1ea6-4fc7-adce-59364612a934.png)
 
 Once the user is ready to write the group match percentage to the output.txt textfile the following button must be
-selected
+selected.
 
 ![Untitled](https://user-images.githubusercontent.com/97834735/165392571-cc9cb022-f7fc-4ed2-b841-b3b2d5b2db5b.png)
 
@@ -42,10 +42,10 @@ The textfile has now be successfully written to. To view the textfile open the p
 
 ![Screenshot 8 v2](https://user-images.githubusercontent.com/97834735/165390281-b64323aa-9c81-4b74-876d-e00b26a1ac05.png)
 
-In the bin folder you will find the output.txt textfile
+In the bin folder you will find the output.txt textfile.
 
 ![Screenshot 9 v2](https://user-images.githubusercontent.com/97834735/165390607-a6a0711b-81d7-4ab8-8e7c-48bd175a1946.png)
 
-output.txt textfile example
+output.txt textfile example.
 
 ![Screenshot 10](https://user-images.githubusercontent.com/97834735/165390310-1aa01ea6-b420-47fb-804f-0c0a03ba6327.png)
